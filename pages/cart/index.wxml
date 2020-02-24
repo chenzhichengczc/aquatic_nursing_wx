@@ -1,0 +1,12 @@
+<view class="container">
+  <image src="{{cartImg}}" class="cart-image"/>
+  <view>{{tipWords}}</view>
+  <view class="venues_list" style="margin-top:30rpx">
+    <view class="venues_item">
+        <image src="{{wx1}}" class="cart-image" style="width:100%"/>
+        <image src="{{wx2}}" class="cart-image" style="margin-top:40rpx"/>
+    </view>
+  </view>
+ 
+ 
+</view>
